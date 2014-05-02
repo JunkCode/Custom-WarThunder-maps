@@ -85,5 +85,11 @@
   "Desert Coast":15,
   "Iron Range":16,
   "Green Ridge":17
-}
+},
+"CBT_Planes":{
+  "Kuban":1,
+  "Ash River":2,
+  "Karelia":11,
+  "Jungle":15
+  }
 }
