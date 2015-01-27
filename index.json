@@ -91,5 +91,21 @@
   "Ash River":2,
   "Karelia":11,
   "Jungle":15
+  },
+"Tank_maps":{
+  "Ash River":1,
+  "Kuban":2,
+  "Mazdok":3,
+  "Poland":4,
+  "Kursk":5,
+  "Jungle":6,
+  "Karelia":7,
+  "Karpaty":8,
+  "Eastern Europe":9,
+  "White Rock Fortress":10
   }
 }
+
+
+
+
